@@ -1,5 +1,9 @@
 # Change Log
 
+#### Change log v.1.0.26b (2025-01-23)
+
+**Fix**: Fixes bug that reverses `rotate_right` and `rotate_left`
+
 #### Change log v.1.0.26 (2023-12-22)
 
 **Performance**: possible performance bump. Credit to @denislavski (Denislav Naydenov) for opening PR #235.
